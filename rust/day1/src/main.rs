@@ -33,9 +33,9 @@ fn calibration1(input: String) -> i32 {
     return num 
 }
 
-fn calibration2(input: String) -> i32 {
-
-}
+//fn calibration2(input: String) -> i32 {
+//    return 3
+//}
 
 
 //cargo run -- file1 file2
